@@ -9,3 +9,7 @@
 .imagediv{
     transition: transform ease 0.5s ;
 }
+
+.page2::-webkit-scrollbar{
+    display: none;
+}
