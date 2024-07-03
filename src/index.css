@@ -5,3 +5,7 @@
 .heroimage{
     object-position: 50% 15%;
 }
+
+.imagediv{
+    transition: transform ease 0.5s ;
+}
